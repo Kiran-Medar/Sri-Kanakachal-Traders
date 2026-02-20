@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Sri Kanakachala Traders | Bamboo & Poles Dealers in Ranebennur</title>
+<meta name="description" content="Sri Kanakachala Traders - Leading Bamboo & Poles dealers in Ranebennur. Wholesale wood, poles, ladders with transport facility.">
+<link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+</head>
+<body class="bg-gray-100 text-gray-800">
+
+<!-- HERO -->
+<section class="bg-blue-900 text-white text-center p-10">
+<h1 class="text-4xl font-bold">Sri Kanakachala Traders</h1>
+<p class="text-xl mt-2">Your Trusted Partner for Quality Bamboo & Poles</p>
+<button class="mt-5 bg-red-600 px-6 py-3 rounded">Get Live Price</button>
+</section>
+
+<!-- PRODUCTS -->
+<section class="p-10 text-center">
+<h2 class="text-3xl font-bold text-blue-900">Our Products</h2>
+<div class="grid md:grid-cols-3 gap-6 mt-8">
+<div class="bg-white p-5 shadow">
+<h3 class="text-xl font-bold">Wood</h3>
+<p>Premium quality structural wood for construction.</p>
+</div>
+<div class="bg-white p-5 shadow">
+<h3 class="text-xl font-bold">Poles & Bamboo</h3>
+<p>Strong and durable scaffolding & agricultural poles.</p>
+</div>
+<div class="bg-white p-5 shadow">
+<h3 class="text-xl font-bold">Ladders</h3>
+<p>Heavy-duty ladders for construction & farming.</p>
+</div>
+</div>
+</section>
+
+<!-- WHY CHOOSE US -->
+<section class="bg-gray-200 p-10 text-center">
+<h2 class="text-3xl font-bold text-blue-900">Why Choose Us</h2>
+<ul class="mt-5 space-y-2">
+<li>Wholesale Price</li>
+<li>Transport Facility</li>
+<li>Genuine Quality Material</li>
+<li>Bulk Orders Available</li>
+</ul>
+</section>
+
+<!-- QUICK QUOTE FORM -->
+<section class="p-10 text-center">
+<h2 class="text-3xl font-bold text-blue-900">Quick Quote</h2>
+<form class="max-w-xl mx-auto mt-5 space-y-3">
+<input class="w-full p-3 border" placeholder="Name">
+<input class="w-full p-3 border" placeholder="Phone Number">
+<textarea class="w-full p-3 border" placeholder="Requirement"></textarea>
+<button class="bg-red-600 text-white px-6 py-3 rounded">Submit</button>
+</form>
+</section>
+
+<!-- TESTIMONIALS -->
+<section class="bg-blue-900 text-white p-10 text-center">
+<h2 class="text-3xl font-bold">Customer Testimonials</h2>
+<p class="mt-5">"Best bamboo supplier in Ranebennur with wholesale price."</p>
+<p>"On-time delivery and genuine material."</p>
+</section>
+
+<!-- MAP -->
+<section class="p-10 text-center">
+<h2 class="text-3xl font-bold text-blue-900">Our Location</h2>
+<iframe class="w-full h-64 mt-5" src="https://maps.google.com/maps?q=Ranebennur&t=&z=13&ie=UTF8&iwloc=&output=embed"></iframe>
+</section>
+
+<!-- GALLERY -->
+<section class="p-10 text-center">
+<h2 class="text-3xl font-bold text-blue-900">Stock Yard</h2>
+<div class="grid md:grid-cols-3 gap-4 mt-6">
+<img src="https://via.placeholder.com/300">
+<img src="https://via.placeholder.com/300">
+<img src="https://via.placeholder.com/300">
+</div>
+</section>
+
+<!-- STICKY BUTTONS -->
+<a href="tel:+919000000000" class="fixed bottom-5 left-5 bg-blue-900 text-white px-5 py-3 rounded-full">Call Now</a>
+<a href="https://wa.me/919000000000" class="fixed bottom-5 right-5 bg-green-600 text-white px-5 py-3 rounded-full">WhatsApp</a>
+
+</body>
+</html>
